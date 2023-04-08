@@ -7,3 +7,4 @@ Research Repo for Human Centric Paper, Benchmark...
 
 - Beyond Appearance: a Semantic Controllable Self-Supervised Learning Framework for Human-Centric Visual Tasks(**CVPR**)
 [[paper](https://arxiv.org/pdf/2303.17602.pdf)]
+[[code](https://github.com/tinyvision/SOLIDER)]
